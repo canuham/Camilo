@@ -1,0 +1,16 @@
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\bin\Debug\netstandard2.0\TallerAPI.Xamarin.deps.json
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\bin\Debug\netstandard2.0\TallerAPI.Xamarin.dll
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\bin\Debug\netstandard2.0\TallerAPI.Xamarin.pdb
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\TallerAPI.Xamarin.csprojAssemblyReference.cache
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\TallerAPI.Xamarin.csproj.CoreCompileInputs.cache
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\TallerAPI.Xamarin.AssemblyInfoInputs.cache
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\TallerAPI.Xamarin.AssemblyInfo.cs
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\TallerAPI.Xamarin.dll
+C:\Canuto Proyectos\TallerAPI\TallerAPI.Xamarin\TallerAPI.Xamarin\obj\Debug\netstandard2.0\TallerAPI.Xamarin.pdb
